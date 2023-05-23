@@ -29,7 +29,7 @@ export default async function handler(
     user: {
       _id: "ChatGPT",
       name: "ChatGPT",
-      avatar: "https://links.papareact.com/89k",
+      avatar: "https://res.cloudinary.com/drwhcke2v/image/upload/v1684823681/chatgpt-logo-clone_x1rqef.svg",
     },
   };
 

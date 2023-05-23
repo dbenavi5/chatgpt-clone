@@ -81,7 +81,7 @@ function ChatInput({ chatId }: Props) {
           placeholder="Type your message here..."
         />
         <button
-          className="bg-[#11A37F] hover:opacity-50 text-white font-bold px-4 py-2 rounded disabled:cursor-not-allowed disabled:bg-gray-300"
+          className="bg-[#e11d48] hover:opacity-50 text-white font-bold px-4 py-2 rounded disabled:cursor-not-allowed disabled:bg-gray-300"
           disabled={!prompt || !session}
           type="submit"
         >
