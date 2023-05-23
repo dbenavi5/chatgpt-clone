@@ -6,7 +6,7 @@ function Login() {
   return (
     <div className="bg-[#e11d48] h-screen flex flex-col items-center justify-center text-center">
       <Image
-        src="https://res.cloudinary.com/drwhcke2v/image/upload/v1684823681/chatgpt-logo-clone_x1rqef.svg"
+        src="https://res.cloudinary.com/drwhcke2v/image/upload/v1684829807/chatgpt-logo-clone_qgyoqa.svg"
         width={300}
         height={300}
         alt="logo"
