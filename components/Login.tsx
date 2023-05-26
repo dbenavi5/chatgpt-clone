@@ -4,9 +4,9 @@ import Image from "next/image";
 
 function Login() {
   return (
-    <div className="bg-[#e11d48] h-screen flex flex-col items-center justify-center text-center">
+    <div className="bg-[#DC143C] h-screen flex flex-col items-center justify-center text-center">
       <Image
-        src="https://res.cloudinary.com/drwhcke2v/image/upload/v1684829807/chatgpt-logo-clone_qgyoqa.svg"
+        src="https://res.cloudinary.com/drwhcke2v/image/upload/v1684964117/chatgpt-logo-clone_mumqep.svg"
         width={300}
         height={300}
         alt="logo"
